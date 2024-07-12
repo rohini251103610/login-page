@@ -1,0 +1,49 @@
+body{
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+}
+.container .col-6 .img{
+    text-align: right;
+    height:700px;
+    width:600px;
+}
+
+
+.container .col-6 .head{
+
+    margin-top: 40px;
+
+}
+.image{
+    text-align: center;
+    z-index: +1;
+    position: relative;
+    bottom: 40rem;
+    right: 26px;
+    margin:0px 50px;
+}
+.head1{
+    text-align: center;
+}
+.login2{
+    padding: 0px 30px;
+}
+.row .login{
+    position: relative;
+    right: 0px;
+}
+.col-6 .head .row{
+    text-align: center;
+    padding: 10px 40px;
+}
+.col-6 .head .col-3{
+    background-color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    margin:20px 20px;
+    padding:15px 10px;
+}
+.account{
+    text-align: center;
+}
